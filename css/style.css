@@ -1,0 +1,294 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:  black ;
+    font-family: Arial;
+    margin-left: 100px;
+   
+}
+.part-1{
+   
+    color: #121218;
+    background-color: #b4fd8c;
+    font-size: 14px;
+    padding: .75rem 1rem;
+    border-radius: .5rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    
+}
+
+#search{
+    width: 33px;
+    height: 30px;
+    border-radius: 23%;
+    background-color: rgba(0, 0, 0, 0.077);
+    margin-left: 440px;
+    border: solid 2px; color: white;
+    margin-top: 20px;   
+}
+#search:hover{
+    background-color: #b4fd8c;
+}
+
+.part-1:hover{
+    background-color: rgba(0, 0, 0, 0.077);
+    border: solid 2px; color: white;
+    color: #b4fd8c;
+
+}
+
+.navbar ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar a{
+    text-decoration: none;
+    color:  white;
+    width: 100%;
+    display: block;
+    padding: 9px 9px;
+    text-align: center;
+    margin-left: 30px;
+   
+}
+.navbar a:hover{
+    background: blueviolet;
+    height: 30px;
+    width: 100%;
+}
+.nav-imag{
+    margin-bottom: -15px;
+}
+.image-container{
+    background-size: 50%;
+    background-image: url(../img/ai-atlas-promo3-purple-glow.webp);
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin-left: -70px;
+    margin-top: 40px;
+}
+
+.image-container1{
+    display: flex;
+    margin-left: 354px;
+    margin-top: 309px;
+    background-color: white;
+    height: 130px;
+    border: solid 1px;
+    width: 74%;
+    
+   
+}
+
+.image1{
+    
+    margin-bottom: 40px;
+    height: 75px;
+    margin-left: 350px;
+}
+
+.part-2{
+    height: 55px;
+    width: 6%;
+    border-radius: 37%;
+    margin-left: 155px;
+    text-transform: uppercase;
+    
+}
+.part-2:hover{
+    background: red;
+}
+
+.linea2{
+    margin-right: 40px;
+    text-align: center;
+
+    
+}
+
+.navbar1 ul{
+    list-style: none;
+    padding: 3;
+    margin: 3;
+    margin-top: 60px;    
+}
+
+
+
+.navbar1 li{
+    display: inline-block;
+}
+
+p{
+    margin-left: 300px;
+}
+
+section.part_1{
+    height: 645px;
+    width: 14%;
+    float: left;
+    margin-top: -115px;
+    margin-left: 96px;
+    font-size: 11px;
+    background-color: #fcf95a;
+    padding: 1.5rem 1rem;
+    border-radius: 0 1rem 1rem 0;
+    
+}
+
+section.part_2{
+    height: 334px;
+    width: 25%;
+    float: right;
+    margin-top: -115px;
+    margin-right: 136px;
+    font-size: 20px;
+    border: solid 1px;
+    padding: 1.5rem;
+    background: #ff5d53;
+    border-radius: 0 1rem 0 0;
+} 
+
+
+.part_3{
+    background-color: blue;
+    height: 39px;
+    width: 9;
+    border-radius: 12%;
+    margin-left: -600px;
+    color: white;
+}
+section.part_2:hover{
+    background-color: deeppink;
+}
+section.part_1:hover{
+    background-color: deepskyblue;
+}
+.part_4{
+    background-color: blue;
+    height: 39px;
+    width: 9;
+    border-radius: 12%;
+    color: white;
+}
+
+.part_5{
+    margin-left: 380px;
+    margin-top: -60px;
+}
+
+.part_6{
+    margin-left: 300px;
+    margin-top: -57px;
+}
+.cenet1{
+    margin-left: 345px;
+    margin-top: -80px;
+    color: red;
+}
+.cenet{
+    font-size: 113px;
+    height: 100px;
+    color: red;
+    
+}
+.cenet2{
+    margin-left: 420px;
+    display: flex;
+    margin-top: -80px;
+    justify-content: center;
+   
+}
+
+.main-section{
+    margin-bottom: 60px;
+    margin-left: 40px;
+}
+
+h1{
+    margin-left: 5px;
+}
+
+h2{
+  margin-left: 5px;
+}
+
+.p1{
+    margin-left: 5px;
+}
+
+.br{
+    margin-left: 5px;
+}
+
+h1{
+    margin-left: 5px;
+}
+
+h4{
+  margin-left: 10px;
+}
+
+section{
+    margin-left: 10px;
+}
+
+.c{
+    display: inline-block;
+    background-color: white;
+    height: 177px;
+    margin-top: -2px;
+    margin-left: 0px;
+    font-size: 14px;
+    width: 76%;
+    border: solid 1px; color: white;
+    
+}
+
+
+.c1{
+    display: inline-block;
+    color: black;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+}
+.c2{
+    display: inline-block;
+    color: black;
+    margin-top: 10px;
+    margin-left: 1px;
+    
+}
+.c3{
+    display: inline-block;
+    color: black;
+    margin-top: 10px;
+    margin-left: 30px
+
+    
+}
+.c4{
+    display: inline-block;
+    color: black;
+    margin-left: 40px;
+    
+}
+section.part_8{
+    height: 301px;
+    width: 19%;
+    float: left;
+    background-color: white;
+    margin-left: -497px;
+    font-size: 20px;
+    margin-top: 277px;
+}
